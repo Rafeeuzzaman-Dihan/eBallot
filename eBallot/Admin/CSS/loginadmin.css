@@ -1,0 +1,55 @@
+.bg
+{
+    background-image: url('../Uploads/Loginbg.jpg');
+    width: 1920px;
+    height: 1080px;
+}
+
+body
+{
+    background: #0e85b9;
+}
+
+
+#labelsheading
+{   
+    width: 1000px;
+    color:rgb(0, 0, 0);
+    font-size: 70px; 
+}
+
+
+#labels
+{
+    width: 150px;
+    color:rgb(255, 255, 255);
+    font-size: 30px;    
+}
+
+input
+{
+    width:200px;
+    border:0px;
+    border-radius:10px;
+    outline:none;
+    padding:10px 20px;
+}
+
+
+.loginbutton 
+{
+    
+    background-color: #00ff2f;
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+    padding: 10px 15px;;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+.loginbutton:hover 
+{
+    opacity: 0.8;
+}
+  

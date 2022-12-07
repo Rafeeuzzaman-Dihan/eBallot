@@ -1,0 +1,38 @@
+#labelprofile
+{
+    width: 1000px;
+    color:rgb(0, 0, 0);
+    font-size: 40px; 
+}
+
+#labelsPROFILE
+{
+    width: 225px;
+    color:rgb(0, 0, 0);
+    font-size: 30px;  
+}
+
+.inputprofile
+{
+    width:200px;
+    border:0px;
+    border-radius:10px;
+    outline:none;
+    padding:10px 20px;
+}
+
+.saveprofilebtn
+{
+    background-color: #141ed4;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 10px 15px;;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+.saveprofilebtn:hover
+{
+    opacity: 0.8;
+}

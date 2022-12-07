@@ -1,0 +1,21 @@
+body
+{
+    background: #9e9696;
+}
+
+#labelsss
+{
+    width: 150px;
+    color:rgb(0, 0, 0);
+    font-size: 30px;    
+}
+
+div.sticky
+{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 2;
+    padding: 0px;
+    background-color: rgb(154, 35, 35);
+    border: 2px solid rgb(48, 134, 29);
+}

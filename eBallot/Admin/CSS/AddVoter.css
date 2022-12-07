@@ -1,0 +1,21 @@
+.addvoterbtn
+{
+    background-color: #141ed4;
+    color: rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 10px 15px;;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.addvoterbtn:hover
+{
+    opacity: 0.8;
+}
+
+#nameerror
+{
+    color: rgb(0, 68, 255);
+    font-size: 15px;
+}
